@@ -1,0 +1,6 @@
+[0227/010227.880:ERROR:process_info.cc(359)] UncheckedAllocate
+[0227/010252.297:ERROR:process_info.cc(359)] UncheckedAllocate
+[0302/182208.708:FATAL:thread_win.cc(25)] : The paging file is too small for this operation to complete. (0x5AF)
+[0302/182219.615:ERROR:process_info.cc(359)] UncheckedAllocate
+[0302/182247.023:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0306/190207.535:ERROR:settings.cc(320)] Settings magic is not 1129342067
